@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class L1_1Area_of_triangle{
     public static void main(String[] args) {
+        int s =25;
         int l,b;
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter Hight and Base");
